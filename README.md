@@ -20,3 +20,5 @@ Jabra Speaker Connect Project
 ## Projects screen 6
 ![alt text](https://github.com/cppqtdev/Jabra-Speaker-Connect-Project/blob/main/Assets/ScreenShots/jabra7.png?raw=true)
 
+
+.
